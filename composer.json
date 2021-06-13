@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "symfony/symfony": "^4.4 || ^5.2",
+        "symfony/symfony": "^4.4 || ^5.2.*",
         "aa-aahmed/simplesamlphp": "dev-master"
     },
     "autoload": {
