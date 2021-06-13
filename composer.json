@@ -11,7 +11,7 @@
     ],
     "require": {
         "symfony/symfony": "^4.4 || ^5.2",
-        "aa-aahmed/simplesamlphp": "^dev-master"
+        "aa-aahmed/simplesamlphp": "^1.19.1"
     },
     "autoload": {
         "psr-4": { "Aahmed\\SimplesamlphpBundle\\": "" }
