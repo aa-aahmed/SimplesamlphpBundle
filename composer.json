@@ -1,16 +1,12 @@
 {
-    "name": "hslavich/simplesamlphp-bundle",
+    "name": "aa-aahmed/simplesamlphp-bundle",
     "type": "symfony-bundle",
     "description": "SimpleSAMLphp Bundle for Symfony",
     "keywords": ["simplesamlphp", "saml"],
     "authors": [
         {
-            "name": "hslavich",
-            "email": "hernan.slavich@gmail.com"
-        },
-        {
-            "name": "Moritz Hesse",
-            "email": "moritz.hesse@tu-dresden.de"
+            "name": "aahmed",
+            "email": "ahmed@on5.io"
         }
     ],
     "require": {
